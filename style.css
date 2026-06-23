@@ -199,20 +199,7 @@ section {
 .project-card:hover{
     transform: translateY(-10px);
 }
-.resume-btn{
-    display: inline-block;
-    margin-top: 15px;
-    padding: 12px 25px;
-    background: #ff8fab;
-    color: white;
-    text-decoration: none;
-    border-radius: 25px;
-    transition: 0.3s;
-}
 
-.resume-btn:hover{
-    background: #ff6b81;
-}
 footer{
     margin: 60px 0 20px;
     color: #666;
@@ -263,3 +250,4 @@ html {
     gap: 15px;
     flex-wrap: wrap;
 }
+
